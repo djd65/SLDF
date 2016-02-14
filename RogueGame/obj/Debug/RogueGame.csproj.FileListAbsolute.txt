@@ -1,0 +1,5 @@
+C:\Users\Djsama\Documents\College Papers\OOP\SLDF\RogueGame\bin\Debug\RogueGame.dll
+C:\Users\Djsama\Documents\College Papers\OOP\SLDF\RogueGame\bin\Debug\RogueGame.pdb
+C:\Users\Djsama\Documents\College Papers\OOP\SLDF\RogueGame\obj\Debug\RogueGame.dll
+C:\Users\Djsama\Documents\College Papers\OOP\SLDF\RogueGame\obj\Debug\RogueGame.pdb
+C:\Users\Djsama\Documents\College Papers\OOP\SLDF\RogueGame\obj\Debug\RogueGame.csprojResolveAssemblyReference.cache
