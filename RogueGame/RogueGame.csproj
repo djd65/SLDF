@@ -41,6 +41,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Armor.cs" />
+    <Compile Include="Game.cs" />
+    <Compile Include="GameMap.cs" />
+    <Compile Include="IMoveable.cs" />
+    <Compile Include="IUpdatable.cs" />
     <Compile Include="Player.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Weapon.cs" />
